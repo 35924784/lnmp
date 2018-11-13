@@ -17,3 +17,16 @@ lnmp_1  |             [ OK ] </br>
 7、mysql端口：32803 ，用户名密码：root/root</br>
 
 
+项目结构：
+.
+├── Dockerfile   
+├── conf
+│   ├── mysql
+│   ├── nginx
+│   └── php
+├── docker-compose.yml
+├── mysql
+├── php
+│   └── log
+└── www
+    └── default
