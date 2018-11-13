@@ -16,10 +16,10 @@ lnmp_1  |             [ OK ] </br>
 6、支持使用ssh工具通过32804端口进入，用户名密码：root/root </br>
 7、mysql端口：32803 ，用户名密码：root/root</br>
 
-
+```
 项目结构：
 .
-├── Dockerfile   
+├── Dockerfile   </br>
 ├── conf
 │   ├── mysql
 │   ├── nginx
@@ -30,3 +30,4 @@ lnmp_1  |             [ OK ] </br>
 │   └── log
 └── www
     └── default
+```
