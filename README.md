@@ -1,6 +1,8 @@
 # lnmp
 docker搭建lnmp(v1.4)环境
 
+使用lnmp1.4 Nginx-1.12.0 Mysql-5.5.56 root:root Php-5.6.31 CLI: lnmp start/stop/restart 使用命令：lnmp start/stop/restart
+
 1、git clone https://github.com/35924784/lnmp到本地目录中。</br>
 2、从Docker公共仓库抓取lnmp镜像:docker pull lizhiqiang666/lnmp:v1</br>
 3、cd 你的目录/lnmp </br>
