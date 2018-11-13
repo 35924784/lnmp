@@ -1,0 +1,44 @@
+[13-Nov-2018 12:14:00] NOTICE: fpm is running, pid 566
+[13-Nov-2018 12:14:00] NOTICE: ready to handle connections
+[13-Nov-2018 12:15:17] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 0 idle, and 5 total children
+[13-Nov-2018 12:15:18] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 16 children, there are 0 idle, and 6 total children
+[13-Nov-2018 12:16:16] NOTICE: Finishing ...
+[13-Nov-2018 12:16:16] NOTICE: exiting, bye-bye!
+[13-Nov-2018 12:16:17] NOTICE: fpm is running, pid 6263
+[13-Nov-2018 12:16:17] NOTICE: ready to handle connections
+[13-Nov-2018 12:16:25] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 0 idle, and 5 total children
+[13-Nov-2018 12:16:26] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 16 children, there are 0 idle, and 6 total children
+[13-Nov-2018 12:17:19] NOTICE: Finishing ...
+[13-Nov-2018 12:17:19] NOTICE: exiting, bye-bye!
+[13-Nov-2018 12:17:21] NOTICE: fpm is running, pid 6852
+[13-Nov-2018 12:17:21] NOTICE: ready to handle connections
+[13-Nov-2018 12:18:25] NOTICE: Finishing ...
+[13-Nov-2018 12:18:25] NOTICE: exiting, bye-bye!
+[13-Nov-2018 12:18:28] NOTICE: fpm is running, pid 7463
+[13-Nov-2018 12:18:28] NOTICE: ready to handle connections
+[13-Nov-2018 12:36:54] NOTICE: fpm is running, pid 618
+[13-Nov-2018 12:36:54] NOTICE: ready to handle connections
+[13-Nov-2018 12:37:17] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 0 idle, and 5 total children
+[13-Nov-2018 12:37:18] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 16 children, there are 0 idle, and 6 total children
+[13-Nov-2018 12:40:31] NOTICE: Finishing ...
+[13-Nov-2018 12:40:31] NOTICE: exiting, bye-bye!
+[13-Nov-2018 12:40:32] NOTICE: fpm is running, pid 6329
+[13-Nov-2018 12:40:32] NOTICE: ready to handle connections
+[13-Nov-2018 13:16:51] NOTICE: Finishing ...
+[13-Nov-2018 13:16:51] NOTICE: exiting, bye-bye!
+[13-Nov-2018 13:16:54] NOTICE: fpm is running, pid 6947
+[13-Nov-2018 13:16:54] NOTICE: ready to handle connections
+[13-Nov-2018 14:53:23] NOTICE: fpm is running, pid 621
+[13-Nov-2018 14:53:23] NOTICE: ready to handle connections
+[13-Nov-2018 15:23:00] NOTICE: fpm is running, pid 634
+[13-Nov-2018 15:23:00] NOTICE: ready to handle connections
+[13-Nov-2018 16:19:46] NOTICE: fpm is running, pid 566
+[13-Nov-2018 16:19:46] NOTICE: ready to handle connections
+[13-Nov-2018 16:20:33] NOTICE: fpm is running, pid 564
+[13-Nov-2018 16:20:33] NOTICE: ready to handle connections
+[13-Nov-2018 16:21:56] NOTICE: fpm is running, pid 616
+[13-Nov-2018 16:21:56] NOTICE: ready to handle connections
+[13-Nov-2018 16:22:25] NOTICE: fpm is running, pid 73
+[13-Nov-2018 16:22:25] NOTICE: ready to handle connections
+[13-Nov-2018 16:23:19] NOTICE: fpm is running, pid 617
+[13-Nov-2018 16:23:19] NOTICE: ready to handle connections

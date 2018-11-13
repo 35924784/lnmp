@@ -1,0 +1,21 @@
+lnmp:
+  build: .
+  ports:
+    - "32801:80"
+    - "32802:443"
+    - "32803:3306"
+    - "32804:22"
+  volumes:
+    # nginx 配置文件夹
+       - ./conf/nginx/:/usr/local/nginx/conf/
+    # mysql 配置文件
+       - ./conf/mysql/my.cnf:/etc/my.cnf:rw
+       - ./mysql/:/usr/local/mysql/var/:rw
+       - ./mysql/log/:/usr/local/mysql/log/:rw
+    # php配置文件
+       - ./conf/php/:/usr/local/php/etc/
+       - ./php/log/:/usr/local/php/var/log/:rw
+    # 项目目录
+       - ./www/:/home/wwwroot/
+  tty: true
+
